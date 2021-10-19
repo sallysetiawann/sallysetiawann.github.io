@@ -198,18 +198,18 @@ img{
     
     width: 50%;
     margin-top: 5px;
-    margin-right: -3px;
+    margin-right: 3px;
 }
 
 .about .box .logo1 img{
-    width: 80%;
+    width: 82%;
 }
 
 .about .box .logo2{
     
     width: 50%;
     margin-top: 5px;
-    margin-right: 25px;
+    margin-right: 24px;
 }
 
 .about .box .logo2 img{
@@ -220,31 +220,31 @@ img{
     
     width: 50%;
     margin-top: 5px;
-    margin-right: 12px;
+    margin-right: 15px;
 }
 
 .about .box .logo3 img{
-    width: 89%;
+    width: 90%;
 }
 
 .about .box .logo4{
     
     width: 50%;
     margin-top: 5px;
-    margin-right: -87px;
+    margin-right: -58px;
 }
 
 .about .box .logo4 img{
-    width: 54%;
+    width: 58%;
 }
 
 .about .box .logo5{
     
     width: 50%;
     margin-top: 5px;
-    margin-right: -130px;
+    margin-right: -87px;
 }
 
 .about .box .logo5 img{
-    width: 46%;
+    width: 51%;
 }
